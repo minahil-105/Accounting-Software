@@ -1,0 +1,77 @@
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlCustomer.resources
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlSetting.resources
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlVendor.resources
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.WF.FormLogin.resources
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.WF.FormMain.resources
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.Properties.Resources.resources
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\bin\Debug\Accounting Software.exe.config
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\bin\Debug\Accounting Software.exe
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\bin\Debug\Accounting Software.pdb
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting Software.exe
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting Software.pdb
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlProduct.resources
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlPurchase.resources
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\bin\Debug\EasyHTMLReports.dll
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.CopyComplete
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlSale.resources
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlCashPaid.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\bin\Debug\Accounting Software.exe.config
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\bin\Debug\Accounting Software.exe
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\bin\Debug\Accounting Software.pdb
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlCustomer.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlProduct.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlSale.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlPurchase.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlSetting.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlVendor.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.WF.FormLogin.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.WF.FormMain.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.Properties.Resources.resources
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.CopyComplete
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting Software.exe
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting Software.pdb
+C:\Users\hp\Desktop\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlDashboard.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\bin\Debug\Accounting Software.exe.config
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\bin\Debug\Accounting Software.exe
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\bin\Debug\Accounting Software.pdb
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.AssemblyReference.cache
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.SuggestedBindingRedirects.cache
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlCustomer.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlDashboard.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlProduct.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlSale.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlPurchase.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlSetting.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlVendor.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.WF.FormLogin.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.WF.FormMain.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.Properties.Resources.resources
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.GenerateResource.cache
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.CoreCompileInputs.cache
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.CopyComplete
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.exe
+D:\BSCS(8)\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.pdb
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\bin\Debug\Accounting Software.exe.config
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\bin\Debug\Accounting Software.exe
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\bin\Debug\Accounting Software.pdb
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.AssemblyReference.cache
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlCustomer.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlDashboard.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlProduct.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlSale.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlPurchase.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlSetting.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.UC.UserControlVendor.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.WF.FormLogin.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.PAL.WF.FormMain.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting_Software.Properties.Resources.resources
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.GenerateResource.cache
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.csproj.CoreCompileInputs.cache
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounti.34F5F891.Up2Date
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.exe
+C:\Users\NCS\Desktop\Project\Accounting Software\Accounting Software\obj\Debug\Accounting Software.pdb
