@@ -39,9 +39,10 @@
  1. **Clone the repository:**
     ```bash
     git clone https://github.com/minahil-105/Accounting-Software.git
- 2. **Open the Project**
-    Open the .sln file in Visual Studio.
- 3. **Set up the database:**
+ 2. **Open the Project** 
+   - Open the .sln file in Visual Studio.
+ 4. **Set up the database:**
+    
    - Create a new SQL Server database.
  
    - Run the .sql scripts provided (if any) to set up required tables.
@@ -53,10 +54,10 @@
  ---  
  
  🤝 Contributing
- Contributions are welcome! Feel free to open issues or submit pull requests.
+   - Contributions are welcome! Feel free to open issues or submit pull requests.
  
  📄 License
- This project is open-source and available under the MIT License.
+   - This project is open-source and available under the MIT License.
  
  Made with 💼 by Minahil Shabbir
  
